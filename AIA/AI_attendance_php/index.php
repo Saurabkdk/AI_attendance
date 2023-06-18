@@ -1,0 +1,1 @@
+<?php echo '<script>location.replace("./attendance/showattendance.php")</script>'; ?>
